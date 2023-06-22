@@ -35,4 +35,4 @@ N (number of rows) and M (number of columns) will be entered then the maze will 
 #######
 ```
 
-In each turn, the current maze is shown on the screen. Then the program waits for the player input ('a', 'w', 's', or 'd') and makes the move. The game finishes whenever Alphaman reaches the exit.
+In each turn, the current maze is shown on the screen. Then the program waits for the player input (`u`, `d`, `l`, or `r`) and makes the move. The game finishes whenever Alphaman reaches the exit.
