@@ -23,6 +23,8 @@ N (number of rows) and M (number of columns) will be entered then the maze will 
 - `G` - gems
 - `M` - monsters
 
+Sample Setup:
+
 ```
 8 7
 #######
