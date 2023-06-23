@@ -38,3 +38,5 @@ Sample Setup:
 ```
 
 In each turn, the current maze is shown on the screen. Then the program waits for the player input (`u`, `d`, `l`, or `r`) and makes the move. The game finishes whenever Alphaman reaches the exit.
+
+### Demo the game by running [this file](https://github.com/advious/Alphaman/blob/main/TicTacToe.java)
